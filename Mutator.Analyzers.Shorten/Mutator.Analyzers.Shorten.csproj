@@ -15,7 +15,7 @@
     <PackageIconUrl>https://github.com/yugabe/Mutator.Analyzers/blob/master/mutator.png?raw=true</PackageIconUrl>
     <RepositoryUrl>https://github.com/yugabe/Mutator.Analyzers/</RepositoryUrl>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <Description>A simple Roslyn analyzer which reports warnings at 250 LoC or errors az 500 LoC in C# files.</Description>
+    <Description>A simple Roslyn analyzer which reports warnings at 250 LoC or errors at 500 LoC in C# files.</Description>
     <PackageReleaseNotes>Initial release</PackageReleaseNotes>
     <Copyright>Apache Licence 2.0</Copyright>
     <PackageTags>Mutator.Analyzers.Shorten, analyzers, Roslyn, Mutator, shorten code, enforce code quality</PackageTags>
