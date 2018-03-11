@@ -12,7 +12,7 @@
     <Authors>Gabe Szabo</Authors>
     <PackageLicenseUrl>https://github.com/yugabe/Mutator.Analyzers/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/yugabe/Mutator.Analyzers/</PackageProjectUrl>
-    <PackageIconUrl>https://github.com/yugabe/Mutator.Analyzers/blob/master/mutator.png</PackageIconUrl>
+    <PackageIconUrl>https://github.com/yugabe/Mutator.Analyzers/blob/master/mutator.png?raw=true</PackageIconUrl>
     <RepositoryUrl>https://github.com/yugabe/Mutator.Analyzers/</RepositoryUrl>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Description>A simple Roslyn analyzer which reports warnings at 250 LoC or errors az 500 LoC in C# files.</Description>
